@@ -1,0 +1,15 @@
+c:\users\wissen\documents\visual studio 2015\Projects\SOLIDPRINCIPLESS\SOLIDPRINCIPLESS\bin\Debug\SOLIDPRINCIPLESS.exe.config
+c:\users\wissen\documents\visual studio 2015\Projects\SOLIDPRINCIPLESS\SOLIDPRINCIPLESS\bin\Debug\SOLIDPRINCIPLESS.exe
+c:\users\wissen\documents\visual studio 2015\Projects\SOLIDPRINCIPLESS\SOLIDPRINCIPLESS\bin\Debug\SOLIDPRINCIPLESS.pdb
+c:\users\wissen\documents\visual studio 2015\Projects\SOLIDPRINCIPLESS\SOLIDPRINCIPLESS\obj\Debug\SOLIDPRINCIPLESS.csprojResolveAssemblyReference.cache
+c:\users\wissen\documents\visual studio 2015\Projects\SOLIDPRINCIPLESS\SOLIDPRINCIPLESS\obj\Debug\SOLIDPRINCIPLESS.Form1.resources
+c:\users\wissen\documents\visual studio 2015\Projects\SOLIDPRINCIPLESS\SOLIDPRINCIPLESS\obj\Debug\SOLIDPRINCIPLESS.Properties.Resources.resources
+c:\users\wissen\documents\visual studio 2015\Projects\SOLIDPRINCIPLESS\SOLIDPRINCIPLESS\obj\Debug\SOLIDPRINCIPLESS.csproj.GenerateResource.Cache
+c:\users\wissen\documents\visual studio 2015\Projects\SOLIDPRINCIPLESS\SOLIDPRINCIPLESS\obj\Debug\SOLIDPRINCIPLESS.exe
+c:\users\wissen\documents\visual studio 2015\Projects\SOLIDPRINCIPLESS\SOLIDPRINCIPLESS\obj\Debug\SOLIDPRINCIPLESS.pdb
+C:\Users\Section1\Desktop\MS-YAZ16 Ortak\SOLIDPRINCIPLESS\SOLIDPRINCIPLESS\bin\Debug\SOLIDPRINCIPLESS.exe.config
+C:\Users\Section1\Desktop\MS-YAZ16 Ortak\SOLIDPRINCIPLESS\SOLIDPRINCIPLESS\obj\Debug\SOLIDPRINCIPLESS.exe
+C:\Users\Section1\Desktop\MS-YAZ16 Ortak\SOLIDPRINCIPLESS\SOLIDPRINCIPLESS\obj\Debug\SOLIDPRINCIPLESS.pdb
+C:\Users\Umut Ezgi\Desktop\Github için Projeler\SOLIDPRINCIPLESS\SOLIDPRINCIPLESS\bin\Debug\SOLIDPRINCIPLESS.exe.config
+C:\Users\Umut Ezgi\Desktop\Github için Projeler\SOLIDPRINCIPLESS\SOLIDPRINCIPLESS\obj\Debug\SOLIDPRINCIPLESS.exe
+C:\Users\Umut Ezgi\Desktop\Github için Projeler\SOLIDPRINCIPLESS\SOLIDPRINCIPLESS\obj\Debug\SOLIDPRINCIPLESS.pdb
